@@ -1,0 +1,15 @@
+.ui.width-standard {
+  min-height: 200px;
+}
+.center-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.display-none {
+  display: none;
+}
